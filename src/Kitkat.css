@@ -1,0 +1,18 @@
+.container-kit{
+    width: 270px;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(15, 15, 15);
+    color: #fff;
+    margin: 50px;
+    box-shadow: 0 1px 3px 1px white;
+}
+
+.container-kit:hover{
+    box-shadow: 0 2px 6px 1.5px white;
+}
+
+.container-item-kit{
+  font-size: 20px;
+}
